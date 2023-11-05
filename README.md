@@ -1,2 +1,2 @@
 # Estacionamento
-Programa que cadastra os carros estacionados assim como os motoristas e as placas dos veículos
+Este programa permite o cadastro de carros estacionados, bem como dos motoristas e das placas dos veículos correspondentes.
